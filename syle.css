@@ -290,3 +290,44 @@ nav ul li a:hover::after{
     font-size: 25px;
 }
 
+/*---------------privacy--------------------*/
+.privacy-col-1{
+    flex-basis: 35%;
+}
+
+.privacy-col-1 h2{
+    margin-top: 100px;
+    font-size: 25px;
+    font-weight: 400;
+    margin-bottom: 30px;
+    text-align: left;
+}
+
+.privacy-col-1 p{
+    margin-top: 50px;
+    font-size: 10px;
+    font-weight: 200;
+    margin-bottom: 30px;
+    text-align: left;
+}
+
+/*---------------tos--------------------*/
+.tos-col-1{
+    flex-basis: 35%;
+}
+.tos-col-1 h2{
+    margin-top: 100px;
+    font-size: 25px;
+    font-weight: 400;
+    margin-bottom: 30px;
+    text-align: left;
+}
+
+.tos-col-1 p{
+    margin-top: 50px;
+    font-size: 10px;
+    font-weight: 200;
+    margin-bottom: 30px;
+    text-align: left;
+}
+
